@@ -1,0 +1,7 @@
+Per eseguire questo tool devi:
+
+- Posizionare la tua cartella "mangos" nella cartella ~/sources/ (/home/youruser/sources/)
+- Installare python-mysqldb quindi digitare nel terminale:
+	apt-get install python-mysqldb
+
+- Configurare il file Mangos_Updater.py inserendo i dati per accedere a mysql e il nome della tua cartella home.
